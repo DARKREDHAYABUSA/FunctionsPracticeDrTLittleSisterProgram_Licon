@@ -1,7 +1,7 @@
 /*Folder: Little_Sister_Licon
 CPP: Function_Practice_Little_Sister.cpp
 Teacher: Dr. Tyson McMillan, 9-1-2019
-Student: TYPE_YOUR_NAME_HERE
+Student: Johnnathon
 
 Description: Dr_T's little sister is smart.
 She uses a divide and concur method to get $20 from the parents.
